@@ -5,6 +5,8 @@ Este material possui um vídeo no youtube explicativo:
 
 [Vídeo Demonstrativo]()
 
+Análises com Osciloscópio:
+
 ![Página 1](imagens/0.jpg)
 ![Página 2](imagens/1.jpg)
 ![Página 3](imagens/2.jpg)
