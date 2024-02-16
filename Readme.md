@@ -5,9 +5,9 @@ Este material possui um vídeo no youtube explicativo:
 
 [Vídeo Demonstrativo]()
 
-![Página 1](imagens/0.png)
-![Página 2](imagens/1.png)
-![Página 3](imagens/2.png)
-![Página 4](imagens/3.png)
-![Página 5](imagens/4.png)
-![Página 6](imagens/5.png)
+![Página 1](imagens/0.jpg)
+![Página 2](imagens/1.jpg)
+![Página 3](imagens/2.jpg)
+![Página 4](imagens/3.jpg)
+![Página 5](imagens/4.jpg)
+![Página 6](imagens/5.jpg)
